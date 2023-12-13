@@ -80,6 +80,7 @@ Logic symbol & Truthtable
 ![image](https://github.com/Prithivirajan2911/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147020085/75026e88-eba8-4733-a486-a9e896124a55)
 
 RTL realization
+
 ![image](https://github.com/Prithivirajan2911/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147020085/17e85543-9b39-4235-abf3-be5e0f91de34)
 
 Output:
